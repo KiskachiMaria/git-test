@@ -1,2 +1,2 @@
-Fix1
+Master text
 Fix1 text text
